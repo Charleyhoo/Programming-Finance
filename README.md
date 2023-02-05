@@ -1,4 +1,4 @@
-# Programming-Finance
+# Git Steps
 
 Working files —> staging —> commit
 
